@@ -1,0 +1,18 @@
+.nav-link{
+    color: white;
+}
+.nav-tabs .nav-link.active {
+    color: black;
+}
+.nav-tabs .nav-link, .nav-tabs .nav-link:hover{
+    color: white;
+}
+.dropdown-toggle{
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+}
+
+.dropdown-toggle::after{
+    display: none !important;
+}
