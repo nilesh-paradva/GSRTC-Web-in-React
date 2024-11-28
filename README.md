@@ -1,6 +1,6 @@
 <h1 align="center">GSRTC Web Project Using React</h1>
 
-[![Watch the video](https://github.com/user-attachments/assets/c8522097-7bbb-48bd-8bfc-20dba27f4605)](https://github.com/user-attachments/assets/c8522097-7bbb-48bd-8bfc-20dba27f4605)
+[![Watch the video](https://github.com/user-attachments/assets/4e64f8e7-5f93-4a6a-b463-55d266b65a6b)](https://github.com/user-attachments/assets/4e64f8e7-5f93-4a6a-b463-55d266b65a6b)
 
 <h3>Project Objectives:-</h3>
 <p>Develop an interactive GSRTC Web using React. This web should display transportation information with functionalities for bus booking.</p>
